@@ -1,0 +1,28 @@
+{
+  "name": "logarun",
+  "version": "1.0.0",
+  "description": "Application for uploading activities from Strava to Logarun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtbtucker/logarun-connector.git"
+  },
+  "keywords": [
+    "logarun",
+    "strava",
+    "node.js"
+  ],
+  "author": "Bill Tucker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtbtucker/logarun-connector/issues"
+  },
+  "homepage": "https://github.com/wtbtucker/logarun-connector#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
